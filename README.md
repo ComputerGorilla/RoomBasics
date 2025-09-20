@@ -28,23 +28,23 @@ La pantalla inicial que muestra la lista de usuarios y las opciones principales.
 `
 ### Añadir Nuevo Usuario (AddUser)
 Formulario para ingresar la información de un nuevo usuario.
-![First Screen](screenshots/AddUser.png)
+![Add User](screenshots/AddUser.png)
 `
 ### Editar Usuario (EditUser)
 Pantalla para modificar los detalles de un usuario existente.
-![First Screen](screenshots/EditUser.png)
+![Edit User](screenshots/EditUser.png)
 `
 ### Usuario Editado Confirmado (ConfirmedEditedUser)
 Confirmación visual de que un usuario ha sido actualizado correctamente.
-![First Screen](screenshots/ConfirmedEditedUser.png)
+![Confirmed Edited User](screenshots/ConfirmedEditedUser.png)
 `
 ### Eliminar Usuario (RemoveUser)
 Diálogo o pantalla para confirmar la eliminación de un usuario.
-![First Screen](screenshots/RemoveUser.png)
+![Remove User](screenshots/RemoveUser.png)
 `
 ### Usuario Eliminado Confirmado (ConfirmedRemovedUser)
 Confirmación visual de que un usuario ha sido eliminado exitosamente.
-![First Screen](screenshots/ConfirmedRemovedUser.png)
+![Confirmed Removed User](screenshots/ConfirmedRemovedUser.png)
 `
 
 ## Cómo Ejecutar el Proyecto
